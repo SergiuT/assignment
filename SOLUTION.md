@@ -25,8 +25,8 @@
 
 ### Trade-offs
 - Kept JSON file storage (per assignment). For multi-process or higher write rates, a DB or file locking would be needed.
-- ID uses `Date.now()` for simplicity; a UUID would be stronger.
 - Cache is process-local and authoritative; no TTL or file watch to keep code lean. Easy to add if requirements expand.
+- Validation could be improved using zod/joi for payloads
 
 ## Frontend
 ### Items page improvements

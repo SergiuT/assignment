@@ -1,6 +1,7 @@
 const express = require('express');
 const fsp = require('fs/promises');
 const path = require('path');
+const { v4: uuidv4 } = require('uuid');
 const { getDataPath } = require('../utils/dataPath');
 const router = express.Router();
 
@@ -152,7 +153,7 @@ router.post('/', asyncHandler(async (req, res) => {
 
   const data = await loadItemsIntoCache();
   const newItem = {
-    id: Date.now(), // Fast unique-enough identifier for demo purposes
+    id: uuidv4(),
     name: payload.name,
     ...payload
   };
