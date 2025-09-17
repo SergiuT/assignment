@@ -1,7 +1,247 @@
 [
-  { "id": 1, "name": "Laptop Pro", "category": "Electronics", "price": 2499 },
-  { "id": 2, "name": "Noise Cancelling Headphones", "category": "Electronics", "price": 399 },
-  { "id": 3, "name": "Ultra‑Wide Monitor", "category": "Electronics", "price": 999 },
-  { "id": 4, "name": "Ergonomic Chair", "category": "Furniture", "price": 799 },
-  { "id": 5, "name": "Standing Desk", "category": "Furniture", "price": 1199 }
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 2499
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 399
+  },
+  {
+    "id": 3,
+    "name": "Ultra‑Wide Monitor",
+    "category": "Electronics",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair",
+    "category": "Furniture",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 1199
+  },
+  {
+    "id": 1758094718312,
+    "name": "Test Item",
+    "price": 12.5
+  },
+  {
+    "id": 6,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 49
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 129
+  },
+  {
+    "id": 8,
+    "name": "USB-C Hub",
+    "category": "Accessories",
+    "price": 59
+  },
+  {
+    "id": 9,
+    "name": "Portable SSD 1TB",
+    "category": "Storage",
+    "price": 139
+  },
+  {
+    "id": 10,
+    "name": "Webcam 1080p",
+    "category": "Electronics",
+    "price": 89
+  },
+  {
+    "id": 11,
+    "name": "Desk Lamp",
+    "category": "Furniture",
+    "price": 39
+  },
+  {
+    "id": 12,
+    "name": "Notebook Stand",
+    "category": "Accessories",
+    "price": 35
+  },
+  {
+    "id": 13,
+    "name": "HDMI Cable",
+    "category": "Accessories",
+    "price": 15
+  },
+  {
+    "id": 14,
+    "name": "Ethernet Cable",
+    "category": "Accessories",
+    "price": 12
+  },
+  {
+    "id": 15,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 99
+  },
+  {
+    "id": 16,
+    "name": "Smartphone Stand",
+    "category": "Accessories",
+    "price": 18
+  },
+  {
+    "id": 17,
+    "name": "Cable Organizer",
+    "category": "Accessories",
+    "price": 14
+  },
+  {
+    "id": 18,
+    "name": "Noise Meter",
+    "category": "Electronics",
+    "price": 45
+  },
+  {
+    "id": 19,
+    "name": "Whiteboard",
+    "category": "Office",
+    "price": 79
+  },
+  {
+    "id": 20,
+    "name": "Whiteboard Markers",
+    "category": "Office",
+    "price": 19
+  },
+  {
+    "id": 21,
+    "name": "Surge Protector",
+    "category": "Electronics",
+    "price": 29
+  },
+  {
+    "id": 22,
+    "name": "Desk Mat",
+    "category": "Accessories",
+    "price": 25
+  },
+  {
+    "id": 23,
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 49
+  },
+  {
+    "id": 24,
+    "name": "Ergonomic Mouse Pad",
+    "category": "Accessories",
+    "price": 17
+  },
+  {
+    "id": 25,
+    "name": "Desk Drawer Organizer",
+    "category": "Office",
+    "price": 22
+  },
+  {
+    "id": 26,
+    "name": "Monitor Arm",
+    "category": "Accessories",
+    "price": 129
+  },
+  {
+    "id": 27,
+    "name": "Portable Projector",
+    "category": "Electronics",
+    "price": 299
+  },
+  {
+    "id": 28,
+    "name": "Conference Speakerphone",
+    "category": "Electronics",
+    "price": 159
+  },
+  {
+    "id": 29,
+    "name": "Air Purifier",
+    "category": "Home",
+    "price": 149
+  },
+  {
+    "id": 30,
+    "name": "Desk Plant",
+    "category": "Home",
+    "price": 25
+  },
+  {
+    "id": 31,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 39
+  },
+  {
+    "id": 32,
+    "name": "USB-C Cable",
+    "category": "Accessories",
+    "price": 9
+  },
+  {
+    "id": 33,
+    "name": "Laptop Sleeve 15\"",
+    "category": "Accessories",
+    "price": 29
+  },
+  {
+    "id": 34,
+    "name": "Noise Cancelling Earbuds",
+    "category": "Electronics",
+    "price": 149
+  },
+  {
+    "id": 35,
+    "name": "Graphic Tablet",
+    "category": "Electronics",
+    "price": 199
+  },
+  {
+    "id": 36,
+    "name": "Desk Shelf",
+    "category": "Furniture",
+    "price": 69
+  },
+  {
+    "id": 37,
+    "name": "Document Scanner",
+    "category": "Electronics",
+    "price": 159
+  },
+  {
+    "id": 38,
+    "name": "Smart LED Strip",
+    "category": "Home",
+    "price": 35
+  },
+  {
+    "id": 39,
+    "name": "Wireless Presenter",
+    "category": "Accessories",
+    "price": 29
+  },
+  {
+    "id": 40,
+    "name": "Desk Foot Rest",
+    "category": "Accessories",
+    "price": 32
+  }
 ]
